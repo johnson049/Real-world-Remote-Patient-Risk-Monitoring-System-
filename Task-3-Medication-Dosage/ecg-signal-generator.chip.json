@@ -1,0 +1,9 @@
+{
+  "name": "ECG Signal Generator",
+  "author": "Johnson Babu",
+  "pins": [
+    "VCC",
+    "GND",
+    "OUT"
+  ]
+}
